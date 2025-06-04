@@ -9,9 +9,9 @@
  *
  */
 
-const String baseUrl = ""; // TODO Replace with the base uvdesk instance url e.g https://uvdesktest.webkul.com/uvdesk1.1/public/api/v1
-const String demoUserName = ""; //TODO Replace with your demo username. Add value only for building test application. Make sure to empty this for production app.
-const String demoPassword = ""; //TODO Replace with your demo password. Add value only for building test application. Make sure to empty this for production app.
+const String baseUrl = "http://10.101.101.74/api/v1"; // TODO Replace with the base uvdesk instance url e.g http://10.101.101.74/api/v1
+const String demoUserName = "helpdesk@gratelindo.co.id"; //TODO Replace with your demo username. Add value only for building test application. Make sure to empty this for production app.
+const String demoPassword = "glgwanpkub16"; //TODO Replace with your demo password. Add value only for building test application. Make sure to empty this for production app.
 const bool logApiCalls = true;
 
 
